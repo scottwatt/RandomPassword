@@ -55,5 +55,4 @@ https://scottwatt.github.io/RandomPassword
 ![screenshot](/rando.jpg)
 
 ### Random Password
-![screenshot](/random.jpg)
-
+![screennshot](/random.jpg)
