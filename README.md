@@ -52,8 +52,8 @@ https://scottwatt.github.io/RandomPassword
 ## Screenshot
 
 ### Full page
-![screenshot](../02-Challenge/Images/rando.jpg)
+![screenshot](/rando.jpg)
 
 ### Random Password
-![screenshot](../02-Challenge/Images/Random.jpg)
+![screenshot](/random.jpg)
 
