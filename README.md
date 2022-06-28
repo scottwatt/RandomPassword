@@ -32,69 +32,32 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
-```
 
-## Mock-Up
+## Work Completed
 
-The following image shows the web application's appearance and functionality:
+*Creates variables for lowercase, uppercase, numbers, and special characters
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+*Adds if statement within function determineLength in the script.js to find password length
 
-## Grading Requirements
+*Adds if statement within function chooseChar in the script.js to find selection user has opted
 
-> **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
->
-> * A repository that has no code
->
-> * A repository that includes a unique name but nothing else
->
-> * A repository that includes only a README file but nothing else
->
-> * A repository that only includes starter code
+*Creates a for loop with math.floor(math.random()) to randomize selections
 
-This Challenge is graded based on the following criteria: 
+*Adds functions to function writePassword() to ensure they run
 
-### Technical Acceptance Criteria: 40%
 
-* Satisfies all of the preceding acceptance criteria.
+## Deployed Site
 
-### Deployment: 32%
+The deployed site hosted by GitHub.
 
-* Application deployed at live URL.
+https://scottwatt.github.io/RandomPassword/
 
-* Application loads with no errors.
 
-* Application GitHub URL submitted.
+## Screenshot
 
-* GitHub repository that contains application code.
+### Full page
+![screenshot](./Images/scottwatt.github.io_RandomPassword_.png)
 
-### Application Quality: 15%
+### Random Password
+![screenshot](./Images/scottwatt.github.io_RandomPassword_%20(2).png)
 
-* Application user experience is intuitive and easy to navigate.
-
-* Application user interface style is clean and polished.
-
-* Application resembles the mock-up functionality provided in the Challenge instructions.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality readme file with description, screenshot, and link to deployed application.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
-
-- - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

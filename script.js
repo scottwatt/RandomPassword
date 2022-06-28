@@ -20,7 +20,7 @@ function determineLength(){
     determineLength();
   }
 }
-
+// User selection
 function chooseCharacters(){
   choosenChar = "";
   wantLowerCase = confirm("Do you want lowercase letters?");
@@ -45,6 +45,7 @@ function chooseCharacters(){
   }
 }
 
+// randomize selected characters
 function generatePassword(){
   var password = "";
   for (var i = 0; i < passwordLength; i++){
@@ -65,5 +66,4 @@ function writePassword() {
 
 }
 
-// Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
