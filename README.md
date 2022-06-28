@@ -46,14 +46,14 @@ THEN the password is either displayed in an alert or written to the page
 
 The deployed site hosted by GitHub.
 
-https://scottwatt.github.io/RandomPassword/
+https://scottwatt.github.io/RandomPassword
 
 
 ## Screenshot
 
 ### Full page
-![screenshot](./Images/scottwatt.github.io_RandomPassword_.png)
+![screenshot](/Images/rando.jpg)
 
 ### Random Password
-![screenshot](/Images/scottwatt.github.io_RandomPassword_%20(2).png)
+![screenshot](/Images/Random.jpg)
 
